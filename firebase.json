@@ -1,0 +1,11 @@
+{
+    "firebaseConfig": {
+      "apiKey": "AIzaSyB-scn63BMuNQZkh80f3O6YDjHHuKMdmks",
+      "authDomain": "calmbuddy-24c9f.firebaseapp.com",
+      "databaseURL": "https://calmbuddy-24c9f.firebaseio.com",
+      "projectId": "calmbuddy-24c9f",
+      "storageBucket": "calmbuddy-24c9f.appspot.com",
+      "messagingSenderId": "351730827528",
+      "appId": "1:351730827528:web:7af3b72d97f5ff12a38a54"
+    }
+}
