@@ -18,17 +18,16 @@ This application aims to address the following issues:
 
 ## Tech Stack
 - Created in VS Code using:
--    Python
--    Ollama for chatbot functionality
--    CSS for frontend
--    Firebase for the account system
--    Different Python Libraries:
--       Streamlit
--       Pandas
--       Time
--       Pyrebase
--       Datetime
-
+  - Python
+  - Ollama for chatbot functionality
+  - CSS for frontend
+  - Firebase for the account system
+  - Different Python Libraries:
+    - Streamlit
+    - Pandas
+    - Time
+    - Pyrebase
+    - Datetime
 
 ## Features
 
