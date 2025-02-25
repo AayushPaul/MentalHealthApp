@@ -1,6 +1,6 @@
 {
     "firebaseConfig": {
-      "apiKey": "AIzaSyB-scn63BMuNQZkh80f3O6YDjHHuKMdmks",
+      "apiKey": "",
       "authDomain": "calmbuddy-24c9f.firebaseapp.com",
       "databaseURL": "https://calmbuddy-24c9f.firebaseio.com",
       "projectId": "calmbuddy-24c9f",
